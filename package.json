@@ -1,0 +1,25 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-sass": "node-sass ./sass/main.scss ./css/style.css -w",
+    "lite-server": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klanakin/math-tools.git"
+  },
+  "author": "Don Klanakin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klanakin/math-tools/issues"
+  },
+  "homepage": "https://github.com/Klanakin/math-tools#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "node-sass": "^4.14.1"
+  }
+}

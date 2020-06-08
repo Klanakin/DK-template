@@ -1,4 +1,4 @@
-# dk-template 
+# DK-template 
 
 DK's Template
 

@@ -13,7 +13,7 @@ Note: This template provides quick start for
     traditional web development process with
     flexibilty to implement any of the different
     frameworks such as Angular, React, or Vue
-    after the initiation.
+    after the initialization.
     
     As for Sass and Typescript, they're my
     personal preferences thus already been

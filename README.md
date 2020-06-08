@@ -19,6 +19,7 @@ Note: This template provides quick start for
     personal preferences thus already been
     pre-installed.
 
-Best regards,
-Don Klanakin
-email: don.klanakin@gmail.com
+Author:
+
+    Don Klanakin
+    email: don.klanakin@gmail.com

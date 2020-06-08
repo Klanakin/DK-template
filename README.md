@@ -18,3 +18,6 @@ Note: This template provides quick start for
     As for Sass and Typescript, they're my
     personal preferences thus already been
     pre-installed.
+
+Best regards,
+Don Klanakin

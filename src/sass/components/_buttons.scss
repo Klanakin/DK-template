@@ -1,10 +1,10 @@
 .btn {
 
-    background-color: honeydew;
+    background-color: greenyellow;
     border-radius: .4rem;
     border-style: none;
     box-shadow: .2rem .2rem .2rem rgba(0, 0, 0, .2);
-    color: darkgrey;
+    color: dodgerblue;
     display: inline-block;
     padding: .4rem 1rem;
     text-decoration: none;
@@ -16,6 +16,12 @@
     }
 
     &:hover {
+        transform: translateY(-.2rem);
+        box-shadow: .2rem .2rem .4rem rgba(0, 0, 0, .4);
+    }
+
+    &:focus {
+        outline: none;
         transform: translateY(-.2rem);
         box-shadow: .2rem .2rem .4rem rgba(0, 0, 0, .4);
     }

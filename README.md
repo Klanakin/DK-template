@@ -2,7 +2,7 @@
 
 DK's Template
 
-To initilize a project, run these in the cli;
+To initialize a project, run these in the CLI;
 
     $ npm install
     $ npm start

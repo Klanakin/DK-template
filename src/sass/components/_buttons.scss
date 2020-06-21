@@ -16,16 +16,16 @@
         font-size: small; }
 
     &:hover {
-        box-shadow: .2rem .2rem .4rem rgba(0, 0, 0, .4);
-        color: $color-secondary-contrast;
-        transform: translateY(-.2rem); }
+        // box-shadow: .2rem .2rem .4rem rgba(0, 0, 0, .4);
+        color: $color-secondary-contrast; }
+        // transform: translateY(-.2rem); }
 
     &:focus {
         color: $color-secondary-contrast;
         // transform: translateY(-.2rem);
-        box-shadow: .2rem .2rem .4rem rgba(0, 0, 0, .4);
-        outline: none; }
+        // box-shadow: .2rem .2rem .4rem rgba(0, 0, 0, .4);
+        outline: none; }     
     
     &:active {
-        transform: translateY(0);
-        box-shadow: .2rem .2rem .2rem rgba(0, 0, 0, .2); } }
+        transform: translateY(0); } }
+        // box-shadow: .2rem .2rem .2rem rgba(0, 0, 0, .2); } }

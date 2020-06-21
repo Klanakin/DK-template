@@ -6,8 +6,6 @@ To initialize a project, run these in the CLI;
 
     $ npm install
     $ npm start
-    $ npm run sass
-    $ tsc --watch
 
 Note: This template provides quick start for 
     traditional web development process with
